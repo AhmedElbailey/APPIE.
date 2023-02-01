@@ -423,6 +423,20 @@
 /*************************/
 /* 440px / 16px = 27.5em */
 @media (max-width: 27.5em) {
+  .nav-logo {
+    width: 14rem;
+    padding-right: 0;
+  }
+  .nav-btns-box {
+    padding: 0;
+  }
+  .nav-btn {
+    padding: 1rem 1.2rem;
+    margin-right: 2.8rem;
+  }
+  .icon-mobile-nav {
+    font-size: 4rem;
+  }
   .header-form {
     width: 95%;
   }
