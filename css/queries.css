@@ -407,7 +407,14 @@
   }
   .video-poster-container {
     width: 110%;
+    height: 110%;
     justify-self: center;
+  }
+  .video-poster {
+    height: 100%;
+  }
+  .video-text-box {
+    padding-top: 4.2rem;
   }
 }
 
@@ -435,6 +442,7 @@
   }
   .video-poster-container {
     width: 113%;
+    height: 113%;
   }
 }
 
